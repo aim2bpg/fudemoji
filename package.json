@@ -1,0 +1,25 @@
+{
+  "name": "fudemoji",
+  "version": "0.0.1",
+  "description": "\"Fudemoji\" stamp expressed in ASCII art",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aim2bpg/fudemoji.git"
+  },
+  "keywords": [
+    "japanese",
+    "kanji",
+    "stamp",
+    "fudemoji"
+  ],
+  "author": "aim2bpg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aim2bpg/fudemoji/issues"
+  },
+  "homepage": "https://github.com/aim2bpg/fudemoji#readme"
+}
