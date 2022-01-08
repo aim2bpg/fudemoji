@@ -32,6 +32,6 @@ Changelog entries are classified using the following labels _(from [keep-a-chang
 
 </details>
 
-## 0.0.1 - 2022-01-08
+## 0.0.1 - 2022-01-09
 
 - New release.

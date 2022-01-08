@@ -10,9 +10,12 @@
 
 <br>
 
-# DEMO
-Update later.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58363353/148652426-1b4f1e21-2025-4db9-80ae-1176ff9b503e.gif"><br>
+</p>
 
+<br>
+<br>
 
 ## Install
 Install with [npm](https://www.npmjs.com/):
@@ -26,6 +29,8 @@ $ npm install fudemoji
 (If you want to display all characters for trial, select 99)
 2. If you want to concatenate the characters, continue with the selection.
 3. Finally, select number 0.
+4. Manually reduce the screen size.
+5. Mouse control the window size.
 
 
 ## Author
