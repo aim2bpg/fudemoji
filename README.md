@@ -32,6 +32,9 @@ $ npm install fudemoji
 4. Manually reduce the screen size.
 5. Mouse control the window size.
 
+### "Fudemoji" list
+<img src="https://user-images.githubusercontent.com/58363353/148653553-02378c3f-919c-485e-a5ff-7b63c0aa4b68.png">
+
 
 ## Author
 
