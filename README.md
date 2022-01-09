@@ -18,11 +18,24 @@
 <br>
 
 ## Install
-Install with [npm](https://www.npmjs.com/):
+1. Install with [npm](https://www.npmjs.com/):
 
 ```sh
 $ npm install fudemoji
 ```
+
+2. Link to the bin file:
+
+```sh
+$ npm link fudemoji
+```
+
+3. Run "Fudemoji":
+
+```sh
+$ fudemoji
+```
+
 
 ## Usage
 1. Move the cursor keys up and down to select the character you want to display.
