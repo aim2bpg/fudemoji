@@ -32,6 +32,12 @@ Changelog entries are classified using the following labels _(from [keep-a-chang
 
 </details>
 
+## 0.0.2 - 2022-01-09
+
+### Fixed
+
+- Since the installation method was not clear, I added two points, the link to the bin file and the execution method.
+
 ## 0.0.1 - 2022-01-09
 
 - New release.
