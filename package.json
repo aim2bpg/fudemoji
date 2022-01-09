@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "\"Fudemoji\" stamp expressed in ASCII art",
   "bin": {
-    "fudemoji": "main.js"
+    "fudemoji": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
