@@ -1,5 +1,5 @@
 {
-  "name": "fudemoji",
+  "name": "@aim2bpg/fudemoji",
   "version": "0.0.1",
   "description": "\"Fudemoji\" stamp expressed in ASCII art",
   "bin": {
