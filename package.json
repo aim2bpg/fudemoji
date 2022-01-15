@@ -1,6 +1,6 @@
 {
   "name": "fudemoji",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "\"Fudemoji\" stamp expressed in ASCII art",
   "bin": {
     "fudemoji": "index.js"

@@ -32,6 +32,12 @@ Changelog entries are classified using the following labels _(from [keep-a-chang
 
 </details>
 
+## 0.0.3 - 2022-01-15
+
+### Fixed
+
+- Added execution with "npx fudemoji" to README.md, assuming that it cannot be executed with "fudemoji".
+
 ## 0.0.2 - 2022-01-09
 
 ### Fixed
