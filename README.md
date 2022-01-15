@@ -35,6 +35,10 @@ $ npm link fudemoji
 ```sh
 $ fudemoji
 ```
+or
+```sh
+$ npx fudemoji
+```
 
 
 ## Usage
